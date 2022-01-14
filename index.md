@@ -17,9 +17,6 @@ Available at https://github.com/SmartDataLab/DR-Share
 
 Written by Marp and Mermaid in Markdown
 
----
-
-<h1 class="">What the fuck</h1>
 
 ---
 
