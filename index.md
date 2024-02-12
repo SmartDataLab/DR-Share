@@ -11,7 +11,7 @@ backgroundImage: url('http://marp.app/assets/hero-background.svg')
 
 关键词: Seismic Loss、Life-Long Insurance、Retrofitting
 
-苏锦华 2021.10.27
+苏锦华 2021.10.27 imya测试一下
 
 Available at https://github.com/SmartDataLab/DR-Share
 
